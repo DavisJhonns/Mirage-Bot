@@ -1,0 +1,14 @@
+E:\Games\Mirage\Mirage-Bot\Mirage-Bot\Mirage-Bot\bin\Debug\Mirage-Bot.exe.config
+E:\Games\Mirage\Mirage-Bot\Mirage-Bot\Mirage-Bot\bin\Debug\Mirage-Bot.exe
+E:\Games\Mirage\Mirage-Bot\Mirage-Bot\Mirage-Bot\bin\Debug\Mirage-Bot.pdb
+E:\Games\Mirage\Mirage-Bot\Mirage-Bot\Mirage-Bot\obj\Debug\Mirage-Bot.csproj.AssemblyReference.cache
+E:\Games\Mirage\Mirage-Bot\Mirage-Bot\Mirage-Bot\obj\Debug\Mirage_Bot.Properties.Resources.resources
+E:\Games\Mirage\Mirage-Bot\Mirage-Bot\Mirage-Bot\obj\Debug\Mirage-Bot.csproj.GenerateResource.cache
+E:\Games\Mirage\Mirage-Bot\Mirage-Bot\Mirage-Bot\obj\Debug\Mirage-Bot.csproj.CoreCompileInputs.cache
+E:\Games\Mirage\Mirage-Bot\Mirage-Bot\Mirage-Bot\obj\Debug\Mirage-Bot.exe
+E:\Games\Mirage\Mirage-Bot\Mirage-Bot\Mirage-Bot\obj\Debug\Mirage-Bot.pdb
+E:\Games\Mirage\Mirage-Bot\Mirage-Bot\Mirage-Bot\bin\Debug\Python.Runtime.dll
+E:\Games\Mirage\Mirage-Bot\Mirage-Bot\Mirage-Bot\bin\Debug\Python.Runtime.xml
+E:\Games\Mirage\Mirage-Bot\Mirage-Bot\Mirage-Bot\obj\Debug\Mirage_Bot.MirageBotUI_form.resources
+E:\Games\Mirage\Mirage-Bot\Mirage-Bot\Mirage-Bot\obj\Debug\Mirage_Bot.Settings_Form.Settings_form.resources
+E:\Games\Mirage\Mirage-Bot\Mirage-Bot\Mirage-Bot\obj\Debug\Mirage-Bot.csproj.CopyComplete

@@ -1,0 +1,10 @@
+﻿item|healthpotion,3,6000
+item|manapotion,2,6000
+item|skill1,q,5000
+item|skill2,e,31000
+item|skill3,r,10000
+item|rune,1,6000
+item|food,6,60000
+ui|healthbar,50,30,80,80,80
+ui|manabar,1280,30,255,120,0
+ui|hunger,650,370,205,205,205,x
